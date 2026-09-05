@@ -1,5 +1,0 @@
-1. Para qué se mantiene el env de python activo durante el push y la ejecución del test si se hace en github?
-
-2. Tema de costos en cuanto a proyectos privados y públicos.
-
-3. Se puede ejecutar un test que falle?
